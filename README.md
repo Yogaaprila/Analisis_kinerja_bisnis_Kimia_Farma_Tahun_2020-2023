@@ -111,7 +111,37 @@ Tabel `analysis_table` yang dihasilkan membantu dalam menganalisis kinerja bisni
 # Dashboard
 Dashboard Link: [Dashboard Performance Analytics Kimia Farma Business Year 2020-2023](https://lookerstudio.google.com/reporting/5db80391-f178-4bba-bc94-3c84be1e34e7)
 
-![Deskripsi Gambar](
+![Deskripsi Gambar](Dashboard_Performance_Analytics_Kimia_Farma_Business_Year_2020-2023.jpg)
+
+# Insight 
+1. Jumlah Transaksi yang terjadi selama tahun 2020-2023 adalah sebanyak 672.458
+2. Total Nett Profit yang diperoleh selama tahun 2020-2023 adalah Rp 91 M
+3. Jumlah Pelanggan selama tahun 2020-2023 adalah 264.601
+4. Rata-rata Persentase Diskon adalah 0,1
+5. Jawa barat berada di posisi pertama dengan jumlah nett sales sebanyak Rp94,9 M. sedangkan Sumatera Utara dan Jawa Tengah berada di posisi kedua dan ketiga dengan jumlah Rp23 M dan Rp22,2 M
+6. Jawa barat berada di posisi pertama dengan jumlah transaksi sebanyak 198,7 rb transaksi, sedangkan Sumatera Utara dan Jawa Tengah berada di posisi kedua dan ketiga dengan jumlah 48,2 rb dan 46,5 rb
+7. Kelima cabang (Cilacap, Solok, Kendari, Sibolga, dan Mataram) memiliki rating cabang yang tinggi (5), tetapi rating transaksi yang relatif rendah (3). Hal ini menunjukkan bahwa meskipun cabang-cabang ini dinilai baik secara kualitas atau kepuasan pelanggan, jumlah atau kualitas transaksi yang terjadi di sana mungkin belum optimal, sehingga terdapat ketidaksesuaian antara rating cabang dan performa transaksinya
+8. Kimia Farma - Apotek menempati posisi pertama dengan jumlah nett profit terbanyak sebesar Rp30,9 M, Kimia Farma - Klinik dan Apotek menempati posisi kedua dengan jumlah nett profit sebesar Rp30,2 M, dan Kimia Farma - Klinik-Apotek-Laboratorium menempati posisi ketiga dengan jumlah nett profit sebesar Rp30,9 M
+9. Grafik menunjukkan bahwa nett profit Kimia Farma dari 2020 hingga 2023 cenderung stabil di antara 1,7 sampai 2 Miliar Rupiah setiap bulannya. Terjadi penurunan yang signifikan setiap tahunnya antara bulan januari ke Februari.
+10. Berdasarkan Hasil dari Grafik Geo Map diperoleh bahwa Provinsi Jawa barat menempati posisi pertama sebanyak Rp26,9 M disusul oleh Sumatera Utara, Jawa Tengah, dll.
+
+# Rekomendasi Bisnis
+| Aspek                                                   | Observasi                                                                                                                                       | Strategi                                                                                                                                                                                                                                  |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Cabang dengan Rating Cabang Tinggi tetapi Rating Transaksi Rendah** | Cabang seperti Cilacap, Solok, Kendari, Sibolga, dan Mataram memiliki rating cabang tinggi (5) tetapi rating transaksi rendah (3).              | Melakukan promosi produk lokal dan optimalkan inventaris untuk menarik lebih banyak transaksi di cabang berperingkat tinggi namun transaksi rendah serta melakukan peningkatan kualitas pelayanan karyawan.                                |
+| **Provinsi dengan Potensi Pertumbuhan Transaksi dan Penjualan (Nett Sales)** | Jawa Barat memiliki total transaksi dan penjualan tertinggi, sementara Sumatera Utara, Jawa Tengah, dan lainnya jauh tertinggal.               | Menambah cabang baru di Sumatera Utara, Jawa Tengah, dan lainnya, melakukan kampanye digital terarah, dan menjalin kerja sama dengan klinik atau rumah sakit setempat.                                                                  |
+| **Provinsi dengan Penjualan (Nett Sales) Rendah**         | Riau dan Kalimantan Timur menunjukkan penjualan yang rendah dibandingkan provinsi lainnya.                                                      | Menggunakan influencer lokal, tawarkan harga spesial pada produk yang relevan, dan adakan acara edukasi kesehatan di Riau dan Kalimantan Timur.                                                                                          |
+| **Persentase Diskon yang Rendah**                         | Rata-rata persentase diskon hanya 0,1%, yang mungkin kurang menarik untuk mendorong transaksi.                                                | Terapkan diskon dinamis dan buat program referensi untuk meningkatkan minat transaksi pelanggan.                                                                                                  |
+| **Performa Bulanan yang Stabil**                          | Laba bersih (Nett Profit) menunjukkan peningkatan di pertengahan tahun tetapi tetap stabil tanpa pertumbuhan signifikan setiap tahun.         | Tingkatkan promosi musiman di bulan Mei-Juni, buat kampanye produk musiman, dan sediakan paket sehat dengan harga khusus.                                                                         |
+| **Pengembangan Cabang Baru Berdasarkan Geografis**         | Peta sebaran menunjukkan masih banyak wilayah yang memiliki laba bersih (Nett Profit) rendah                                                   | Melakukan penambahan cabang dan memberikan diskon atau promosi di provinsi yang masih memiliki laba rendah.                                                                                       |
+
+
+
+
+
+
+
+
 
 
 
